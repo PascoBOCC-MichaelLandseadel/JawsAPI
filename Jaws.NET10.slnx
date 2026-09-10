@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/clients/">
+    <File Path="clients/internal/package.json" />
+  </Folder>
+  <Project Path="Jaws.Api/Jaws.Api.csproj" />
+  <Project Path="Jaws.Data/Jaws.Data.csproj" />
+</Solution>
